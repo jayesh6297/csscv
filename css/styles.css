@@ -137,3 +137,7 @@ a:hover {
 	font-size: 0.75rem;
 	padding: 20px 0;
 }
+
+.normal {
+	font-weight: normal;
+}
